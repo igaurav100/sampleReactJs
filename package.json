@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+      "react": "^16.8.0", // An older version, which may have known vulnerabilities
+      "some-vulnerable-package": "^1.0.0" // Hypothetical package with vulnerabilities
+    }
+  }
+  
